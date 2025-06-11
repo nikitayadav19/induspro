@@ -21,29 +21,6 @@ IndusPro is a clean, modern, and responsive industrial website template designed
 - **Swiper.js** for sliders
 - **RemixIcon** for iconography
 
-## 📁 Folder Structure
-
-IndusPro/
-│
-├── assets/
-│ ├── article-1.jpg
-│ ├── article-2.jpg
-│ ├── article-3.jpg
-│ ├── client-1.jpg
-│ ├── client-2.jpg
-│ ├── client-3.jpg
-│ ├── faq.jpg
-│ └── media-*.jpg
-│
-├── index.html
-├── styles.css
-├── main.js
-└── README.md
-
-## 📬 Contact
-
-For suggestions, collaborations, or customizations, feel free to reach out via the **Contact Us** button on the site.
-
 ---
 
 ### ✅ Live Demo
